@@ -40,7 +40,7 @@ Os dados utilizados para este projeto são provenientes do [UCI Machine Learning
 
 1. Clone este repositório: `git clone https://github.com/seuusuario/student-dropout-prediction.git`
 2. Instale as dependências: `pip install -r requirements.txt`
-3. Execute o script de treinamento: `python train_model.py`
+3. Execute o script de treinamento: `python student_dropout_model_train.py` ou `py student_dropout_model_train.py` 
 4. Use o modelo treinado para fazer predições: `python predict.py`
 
 ## Dependências
